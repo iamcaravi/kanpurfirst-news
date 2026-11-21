@@ -10,7 +10,8 @@
       "date": "2026-11-21",
       "hero": true,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "daulat-rutba-parivar-20261120",
@@ -22,7 +23,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "hallet-ilaj-bhatak-20261120",
@@ -34,7 +36,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "train-mahila-marpeet-20261120",
@@ -46,7 +49,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "yogi-maa-savitri-devi-nidhan-20261120",
@@ -58,7 +62,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "video": false
+      "video": false,
+      "likes": 0
     },
     {
       "id": "karrahi-board-civic-sense-20261120",
@@ -70,7 +75,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "greenpark-cm-grid-road-deadline",
@@ -81,7 +87,8 @@
       "sourceUrl": "https://www.instagram.com/p/Df9wKFSzV9i/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 28900
+      "views": 0,
+      "likes": 0
     },
     {
       "id": "yashoda-nagar-auto-aag-20261119",
@@ -93,7 +100,8 @@
       "date": "2026-11-19",
       "hero": false,
       "views": 0,
-      "video": true
+      "video": true,
+      "likes": 0
     },
     {
       "id": "janganna-kanpur-nauvan-20261119",
@@ -105,7 +113,8 @@
       "date": "2026-11-19",
       "hero": false,
       "views": 0,
-      "video": false
+      "video": false,
+      "likes": 0
     },
     {
       "id": "day-wedding-kanpur",
@@ -116,7 +125,8 @@
       "sourceUrl": "https://www.instagram.com/p/Df9LopzTLNJ/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 48200
+      "views": 0,
+      "likes": 0
     },
     {
       "id": "brajesh-pathak-akhilesh-mandir",
@@ -127,8 +137,9 @@
       "sourceUrl": "https://www.instagram.com/p/Df9VcgyTPj_/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 41500,
-      "video": false
+      "views": 0,
+      "video": false,
+      "likes": 0
     },
     {
       "id": "cbi-raid-cantonment-board",
@@ -139,8 +150,9 @@
       "sourceUrl": "https://www.instagram.com/p/Df9eDAbTIvF/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 39800,
-      "video": false
+      "views": 0,
+      "video": false,
+      "likes": 0
     },
     {
       "id": "russia-missing-youth-kanpur",
@@ -151,8 +163,9 @@
       "sourceUrl": "https://www.instagram.com/p/Df9mgSNzYcK/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 36700,
-      "video": false
+      "views": 0,
+      "video": false,
+      "likes": 0
     }
   ]
 }
