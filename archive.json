@@ -120,6 +120,64 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 13400
+    },
+    {
+      "id": "ahirwan-chakubazi",
+      "headline": "अहीरवान में दो पक्षों के बीच चाकूबाजी, 6 घायल",
+      "category": "क्राइम",
+      "body": "अहीरवान में दो पक्षों के बीच चाकूबाजी की घटना में 6 लोग घायल हो गए।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df89MjChbhu.jpg",
+      "sourceUrl": "https://www.instagram.com/p/Df89MjChbhu/",
+      "date": "2026-11-20",
+      "hero": false,
+      "views": 19800
+    },
+    {
+      "id": "medical-college-gatta-bandage",
+      "headline": "मेडिकल कॉलेज में बिना जांच हाथ पर गत्ता बांधने का आरोप, मरीज का वीडियो वायरल",
+      "category": "कानपुर",
+      "body": "मेडिकल कॉलेज में बिना जांच किए मरीज के हाथ पर गत्ता बांधने का आरोप लगा है। मरीज का वीडियो सोशल मीडिया पर वायरल हो रहा है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df88QZGoUce.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df88QZGoUce/",
+      "date": "2026-11-20",
+      "hero": false,
+      "views": 24600,
+      "video": true
+    },
+    {
+      "id": "maharajpur-atm-chori-giraftar",
+      "headline": "महाराजपुर पुलिस ने ATM चोरी के आरोपी को गिरफ्तार किया, तीन मुकदमे दर्ज",
+      "category": "क्राइम",
+      "body": "महाराजपुर पुलिस ने ATM चोरी के एक आरोपी को गिरफ्तार किया है। आरोपी के खिलाफ तीन मुकदमे दर्ज हैं।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df7eKBdBam3.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df7eKBdBam3/",
+      "date": "2026-11-20",
+      "hero": false,
+      "views": 12100,
+      "video": true
+    },
+    {
+      "id": "bhognipur-hatyakand-giraftar",
+      "headline": "भोगनीपुर हत्याकांड के दो आरोपी गिरफ्तार, चाकू बरामद",
+      "category": "क्राइम",
+      "body": "भोगनीपुर हत्याकांड के दो आरोपियों को गिरफ्तार कर लिया गया है। उनके पास से चाकू भी बरामद हुआ है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df7apuAJf25.jpg",
+      "sourceUrl": "https://www.instagram.com/p/Df7apuAJf25/",
+      "date": "2026-11-20",
+      "hero": false,
+      "views": 15400
+    },
+    {
+      "id": "ai-fake-video-fraud",
+      "headline": "AI से फर्जी वीडियो बनाकर महिला से 13.75 लाख हड़पे, FIR दर्ज",
+      "category": "क्राइम",
+      "body": "AI से फर्जी वीडियो बनाकर एक महिला से 13.75 लाख रुपये हड़प लिए गए। मामले में FIR दर्ज कर ली गई है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df6AIwFiu8I.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df6AIwFiu8I/",
+      "date": "2026-11-20",
+      "hero": false,
+      "views": 22700,
+      "video": true
     }
   ]
 }
