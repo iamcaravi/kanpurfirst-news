@@ -1,6 +1,45 @@
 {
   "stories": [
     {
+      "id": "yogi-maa-jaane-toote-20261121",
+      "headline": "मां के जाने से टूटे योगी आदित्यनाथ, नम हुईं आंखें !!",
+      "category": "राजनीति",
+      "body": "मां के जाने से टूटे योगी आदित्यनाथ, नम हुईं आंखें !!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df_e31JKeAj.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df_e31JKeAj/",
+      "date": "2026-11-21",
+      "hero": true,
+      "views": 1041,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "yogi-maa-antim-vidai-20261121",
+      "headline": "मां को अंतिम विदाई देते वक्त छलके योगी के आंसू, हर आंख हुई नम",
+      "category": "राजनीति",
+      "body": "मां को खोने का दर्द किसी पद या पहचान का मोहताज नहीं होता। मां सावित्री देवी की अंतिम यात्रा में मुख्यमंत्री योगी आदित्यनाथ भावुक नजर आए। उन्होंने अपनी पूज्य माताजी की अर्थी को कंधा दिया और नम आंखों से अंतिम विदाई दी।\n\nइस भावुक पल ने एक बार फिर याद दिलाया कि दुनिया के लिए कोई कितना भी बड़ा क्यों न हो, मां के सामने वह हमेशा एक बेटा ही रहता है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df_dUWRgpUF.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df_dUWRgpUF/",
+      "date": "2026-11-21",
+      "hero": false,
+      "views": 4111,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "shastri-nagar-dabang-marpeet-20261121",
+      "headline": "कानपुर में दबंगों का तांडव! युवक को सड़क पर दौड़ा-दौड़ाकर पीटा, वीडियो वायरल",
+      "category": "क्राइम",
+      "body": "कानपुर के शास्त्री नगर में मामूली बात को लेकर हुआ विवाद मारपीट तक पहुंच गया। आरोप है कि कुछ दबंगों ने एक युवक को दौड़ा-दौड़ाकर पीटा। घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।\nवीडियो सामने आने के बाद इलाके में कानून-व्यवस्था को लेकर सवाल उठ रहे हैं। अब देखना होगा कि पुलिस इस मामले में क्या कार्रवाई करती है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df_Qh8UKg41.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df_Qh8UKg41/",
+      "date": "2026-11-21",
+      "hero": false,
+      "views": 3186,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "sadak-laparwahi-video-20261121",
       "headline": "'हमारे शहर के लोग कब सुधरेंगे?' कानपुर की सड़क पर दिखी लापरवाही का वीडियो वायरल !!",
       "category": "कानपुर",
@@ -8,8 +47,8 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df-dI4uThik.jpg",
       "sourceUrl": "https://www.instagram.com/reel/Df-dI4uThik/",
       "date": "2026-11-21",
-      "hero": true,
-      "views": 2207,
+      "hero": false,
+      "views": 4151,
       "video": true,
       "likes": 0
     },
@@ -22,7 +61,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df9nSchKstH/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 12000,
+      "views": 20000,
       "video": true,
       "likes": 0
     },
@@ -35,7 +74,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df9mfLvKHCE/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 6940,
+      "views": 7839,
       "video": true,
       "likes": 0
     },
@@ -48,7 +87,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df-P1HhAbgE/",
       "date": "2026-11-20",
       "hero": false,
-      "views": 103000,
+      "views": 164000,
       "video": true,
       "likes": 0
     },
@@ -63,7 +102,7 @@
       "hero": false,
       "views": 0,
       "video": false,
-      "likes": 81
+      "likes": 87
     },
     {
       "id": "karrahi-board-civic-sense-20261120",
@@ -88,7 +127,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "likes": 0
+      "likes": 0,
+      "video": false
     },
     {
       "id": "yashoda-nagar-auto-aag-20261119",
@@ -126,7 +166,8 @@
       "date": "2026-11-20",
       "hero": false,
       "views": 0,
-      "likes": 204
+      "likes": 248,
+      "video": false
     },
     {
       "id": "brajesh-pathak-akhilesh-mandir",
@@ -139,7 +180,7 @@
       "hero": false,
       "views": 0,
       "video": false,
-      "likes": 11
+      "likes": 12
     },
     {
       "id": "cbi-raid-cantonment-board",
@@ -152,7 +193,7 @@
       "hero": false,
       "views": 0,
       "video": false,
-      "likes": 28
+      "likes": 30
     },
     {
       "id": "russia-missing-youth-kanpur",
@@ -165,7 +206,7 @@
       "hero": false,
       "views": 0,
       "video": false,
-      "likes": 165
+      "likes": 269
     }
   ]
 }
