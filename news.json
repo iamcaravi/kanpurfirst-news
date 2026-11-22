@@ -1,6 +1,32 @@
 {
   "stories": [
     {
+      "id": "hallet-gatta-plaster-20261122",
+      "headline": "हाथ में प्लास्टर की जगह गत्ता बांधकर कर दिया इलाज, हैलेट का वीडियो चर्चा में",
+      "category": "कानपुर",
+      "body": "कानपुर के हैलेट अस्पताल से इलाज का एक ऐसा वीडियो सामने आया है, जिसे देखकर लोग पूछ रहे हैं—ये मेडिकल साइंस है या गत्ता साइंस? जानकारी के मुताबिक, घायल को पुलिस ने अस्पताल में भर्ती कराया था, जहां उसके हाथ में प्लास्टर की जगह गत्ता लगाकर पट्टी कर दी गई। इसका वीडियो सोशल मीडिया पर वायरल हो रहा है। अब सवाल है कि आखिर अस्पताल में यह कैसा इलाज किया गया? अस्पताल प्रशासन की ओर से आधिकारिक प्रतिक्रिया सामने आना बाकी है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgB85leq3uC.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgB85leq3uC/",
+      "date": "2026-11-22",
+      "hero": true,
+      "views": 46,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "kanpur-bhasha-podcast-20261122",
+      "headline": "कानपुर की भाषा का चक्कर ही अलग है",
+      "category": "कानपुर",
+      "body": "कानपुर की खासियत सिर्फ यहां के समोसे, ठग्गू के लड्डू और भौकाल में नहीं है गुरु… यहां तो जगह बदलते ही बोलने का अंदाज भी बदल जाता है! 😂 बिठूर पहुंचो तो अलग रंग, पनकी जाओ तो अलग ढंग। पॉडकास्ट में बंदे ने कनपुरिया भाषा की इसी मजेदार खासियत को ऐसे समझाया कि कानपुर वाले खुद को इससे जोड़ पाएंगे। अब बाहर वालों को समझ आए या न आए, अपने कानपुरियों को तो बात पूरी समझ आ गई होगी! 😄",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgA32siq-GG.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgA32siq-GG/",
+      "date": "2026-11-22",
+      "hero": false,
+      "views": 3172,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "keshavpuram-prithviraj-smarak-virodh-20261121",
       "headline": "पृथ्वीराज चौहान का स्मारक हटाने पर भड़के लोग, नगर निगम में पार्षद से भिड़ी भीड़",
       "category": "कानपुर",
@@ -8,9 +34,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgAa_X-B6mp.jpg",
       "sourceUrl": "https://www.instagram.com/p/DgAa_X-B6mp/",
       "date": "2026-11-21",
-      "hero": true,
+      "hero": false,
       "views": 0,
-      "likes": 13,
+      "likes": 50,
       "video": false
     },
     {
@@ -23,7 +49,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 33,
+      "likes": 129,
       "video": false
     },
     {
@@ -36,7 +62,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 14,
+      "likes": 17,
       "video": false
     },
     {
@@ -48,7 +74,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgAILHsAk9q/",
       "date": "2026-11-21",
       "hero": false,
-      "views": 5065,
+      "views": 6726,
       "likes": 0,
       "video": true
     },
@@ -61,7 +87,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgABtKigU0G/",
       "date": "2026-11-21",
       "hero": false,
-      "views": 1650,
+      "views": 2079,
       "likes": 0,
       "video": true
     },
@@ -75,7 +101,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 59,
+      "likes": 92,
       "video": false
     },
     {
@@ -88,7 +114,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 226,
+      "likes": 293,
       "video": false
     },
     {
@@ -100,7 +126,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df_q3tvj8hi/",
       "date": "2026-11-21",
       "hero": false,
-      "views": 21400,
+      "views": 25000,
       "likes": 0,
       "video": true
     },
@@ -114,7 +140,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 46,
+      "likes": 60,
       "video": false
     },
     {
@@ -126,7 +152,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df_e31JKeAj/",
       "date": "2026-11-21",
       "hero": false,
-      "views": 2403,
+      "views": 2682,
       "likes": 0,
       "video": true
     },
