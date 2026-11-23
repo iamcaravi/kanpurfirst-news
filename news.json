@@ -1,6 +1,71 @@
 {
   "stories": [
     {
+      "id": "cantt-roomi-bhaiya-quality-20261123",
+      "headline": "भैया जी की सबसे बड़ी क्वालिटी?",
+      "category": "राजनीति",
+      "body": "गड्ढे में उतरकर विरोध और सियासत में कुर्सी बचाने की जंग! जानिए कानपुर कैंट के विधायक मोहम्मद हसन रूमी की पूरी कहानी।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgEfvdMq2Kj.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgEfvdMq2Kj/",
+      "date": "2026-11-23",
+      "hero": true,
+      "views": 148,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "ganga-bairaj-xuv-hadsa-20261123",
+      "headline": "गंगा बैराज पर रफ्तार का कहर, XUV ने दो मजदूरों को रौंदा... एक की मौत",
+      "category": "कानपुर",
+      "body": "गंगा बैराज (मेघन पुरवा) के पास तेज रफ्तार XUV कार ने साइकिल सवार दो मजदूरों को टक्कर मार दी। हादसे में एक मजदूर की मौत हो गई, जबकि दूसरा गंभीर रूप से घायल है। शुरुआती जानकारी के मुताबिक, कार शरीब सिद्दीकी के नाम पर रजिस्टर्ड बताई जा रही है। वहीं, हादसे के वक्त स्टेयरिंग कौन संभाल रहा था और क्या कोई नाबालिग कार चला रहा था, यह पुलिस जांच का विषय है।\n\nएक परिवार का सहारा छिन गया… अब जांच में सामने आना चाहिए कि इस हादसे के लिए जिम्मेदार कौन है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgEcT6gKaXj.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgEcT6gKaXj/",
+      "date": "2026-11-23",
+      "hero": false,
+      "views": 2224,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "ghatampur-akhbar-photo-tanj-20261119",
+      "headline": "कहीं मृतक, कहीं आरोपी...अखबार की खबरों पर शख्स का मजेदार तंज, वीडियो वायरल",
+      "category": "कानपुर",
+      "body": "कानपुर के घाटमपुर डाकघर घोटाले में गिरफ्तारी की खबर और दूसरी खबर में एक ही व्यक्ति की तस्वीर इस्तेमाल होने का मामला चर्चा में है। अखबार में एक ही फोटो को दो अलग-अलग खबरों में देखकर एक शख्स @goswamisom900 ने मजेदार वीडियो बनाया और अपने अंदाज में चुटकी ली।\n\nवीडियो में वह तंज कसते हुए कहता है कि एक ही व्यक्ति कहीं मृतक बताया जा रहा है, तो कहीं जेल में बंद आरोपी! 😂",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df61eYWqUei.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df61eYWqUei/",
+      "date": "2026-11-19",
+      "hero": false,
+      "views": 2700000,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "ghatampur-beti-pita-guhar-20261118",
+      "headline": "कल को तुम्हारा रिश्ता कौन करेगा? बेटी से पिता की बेबसी भरी गुहार",
+      "category": "कानपुर",
+      "body": "सोशल मीडिया पर घाटमपुर का बताया जा रहा एक पोस्ट चर्चा में है। पोस्ट में दावा किया गया है कि एक पिता ने अपनी बेटी को एक युवक के साथ घूमते हुए देखा। इसके बाद पिता ने युवक से कहा कि ऐसी हरकतों से भविष्य में रिश्ते तय करने में परेशानी हो सकती है। पोस्ट के मुताबिक, इस दौरान बेटी भी लगातार जवाब देती रही।\nहालांकि, इस घटना की स्वतंत्र पुष्टि और वायरल पोस्ट का पूरा संदर्भ अभी स्पष्ट नहीं है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df5A9IOKmy6.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df5A9IOKmy6/",
+      "date": "2026-11-18",
+      "hero": false,
+      "views": 1700000,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "yogi-mimicry-artist-phone-20261118",
+      "headline": "योगी आदित्यनाथ बनकर मिमिक्री आर्टिस्ट ने किया फोन, कॉल आते ही टीचर के उड़ गए होश!",
+      "category": "कानपुर",
+      "body": "योगी आदित्यनाथ बनकर मिमिक्री आर्टिस्ट ने किया फोन, कॉल आते ही टीचर के उड़ गए होश!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df4ST9hKIj1.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/Df4ST9hKIj1/",
+      "date": "2026-11-18",
+      "hero": false,
+      "views": 1400000,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "chhavni-vandana-sinha-ghuskand-20261122",
       "headline": "तीन महीने में तीन प्रमोशन, अब घूसकांड में जेल पहुंचीं वंदना सिन्हा!",
       "category": "क्राइम",
@@ -8,9 +73,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgCniYYB-Ow.jpg",
       "sourceUrl": "https://www.instagram.com/p/DgCniYYB-Ow/",
       "date": "2026-11-22",
-      "hero": true,
+      "hero": false,
       "views": 0,
-      "likes": 66,
+      "likes": 157,
       "video": false
     },
     {
@@ -22,7 +87,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgCe0RrKX90/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 81500,
+      "views": 102000,
       "likes": 0,
       "video": true
     },
@@ -36,7 +101,7 @@
       "date": "2026-11-22",
       "hero": false,
       "views": 0,
-      "likes": 67,
+      "likes": 81,
       "video": false
     },
     {
@@ -48,7 +113,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgCNkWBKFzA/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 2859,
+      "views": 3396,
       "likes": 0,
       "video": true
     },
@@ -61,7 +126,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgB85leq3uC/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 4635,
+      "views": 5517,
       "likes": 0,
       "video": true
     },
@@ -74,7 +139,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgA32siq-GG/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 69700,
+      "views": 153000,
       "likes": 0,
       "video": true
     },
@@ -88,7 +153,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 132,
+      "likes": 148,
       "video": false
     },
     {
