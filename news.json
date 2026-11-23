@@ -1,6 +1,32 @@
 {
   "stories": [
     {
+      "id": "kanpur-boys-hostel-delivery-boy-shav-20261123",
+      "headline": "बॉयज हॉस्टल में मिला डिलीवरी बॉय का शव, कमरे से आ रही थी दुर्गंध",
+      "category": "क्राइम",
+      "body": "कानपुर के एक बॉयज हॉस्टल में उस वक्त हड़कंप मच गया, जब एक कमरे से तेज दुर्गंध आने लगी। परेशान छात्रों ने इसकी सूचना पुलिस को दी। मौके पर पहुंची पुलिस ने दरवाजा तोड़कर अंदर प्रवेश किया तो कमरे में एक डिलीवरी बॉय का शव पड़ा मिला।\n\nफिलहाल युवक की मौत किन परिस्थितियों में हुई, इसकी जानकारी सामने आना बाकी है। पुलिस मामले की जांच में जुटी है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgFyUH8KToQ.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgFyUH8KToQ/",
+      "date": "2026-11-23",
+      "hero": true,
+      "views": 2526,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "akhilesh-thali-mehangai-tanj-20261123",
+      "headline": "'जनता की थाली महंगाई से खाली', अखिलेश ने CM योगी पर कसा तंज",
+      "category": "राजनीति",
+      "body": "'जनता की थाली महंगाई से खाली', अखिलेश ने CM योगी पर कसा तंज",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgFw0hYqCea.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgFw0hYqCea/",
+      "date": "2026-11-23",
+      "hero": false,
+      "views": 480,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "mahila-tte-video-bahas-20261123",
       "headline": "व्यूज की भूख या अभिव्यक्ति की आजादी? महिला TTE के वीडियो पर छिड़ी बहस",
       "category": "कानपुर",
@@ -8,8 +34,8 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgFNV81qN5U.jpg",
       "sourceUrl": "https://www.instagram.com/reel/DgFNV81qN5U/",
       "date": "2026-11-23",
-      "hero": true,
-      "views": 1598,
+      "hero": false,
+      "views": 8664,
       "likes": 0,
       "video": true
     },
@@ -22,7 +48,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgE09HkqmaE/",
       "date": "2026-11-23",
       "hero": false,
-      "views": 5823,
+      "views": 8302,
       "likes": 0,
       "video": true
     },
@@ -35,7 +61,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgEfvdMq2Kj/",
       "date": "2026-11-23",
       "hero": false,
-      "views": 53800,
+      "views": 78600,
       "likes": 0,
       "video": true
     },
@@ -48,7 +74,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgEcT6gKaXj/",
       "date": "2026-11-23",
       "hero": false,
-      "views": 54300,
+      "views": 76300,
       "likes": 0,
       "video": true
     },
@@ -74,7 +100,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df5A9IOKmy6/",
       "date": "2026-11-18",
       "hero": false,
-      "views": 1700000,
+      "views": 1800000,
       "likes": 0,
       "video": true
     },
@@ -87,7 +113,7 @@
       "sourceUrl": "https://www.instagram.com/reel/Df4ST9hKIj1/",
       "date": "2026-11-18",
       "hero": false,
-      "views": 1400000,
+      "views": 1500000,
       "likes": 0,
       "video": true
     },
@@ -101,7 +127,7 @@
       "date": "2026-11-22",
       "hero": false,
       "views": 0,
-      "likes": 256,
+      "likes": 318,
       "video": false
     },
     {
@@ -113,7 +139,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgCe0RrKX90/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 116000,
+      "views": 119000,
       "likes": 0,
       "video": true
     },
@@ -127,7 +153,7 @@
       "date": "2026-11-22",
       "hero": false,
       "views": 0,
-      "likes": 88,
+      "likes": 100,
       "video": false
     },
     {
