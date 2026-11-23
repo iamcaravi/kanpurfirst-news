@@ -1,6 +1,32 @@
 {
   "stories": [
     {
+      "id": "mahila-tte-video-bahas-20261123",
+      "headline": "व्यूज की भूख या अभिव्यक्ति की आजादी? महिला TTE के वीडियो पर छिड़ी बहस",
+      "category": "कानपुर",
+      "body": "सोशल मीडिया पर वायरल होने की चाह में कुछ लोग कैमरा उठाते ही खुद को कानून का जानकार समझने लगते हैं! महिला TTE का ड्यूटी के दौरान वीडियो बनाने और उसे सोशल मीडिया पर प्रसारित करने के मामले में अब अभिव्यक्ति की स्वतंत्रता और निजता को लेकर बहस छिड़ गई है।\n\nसवाल सीधा है—क्या संविधान का अनुच्छेद 19 किसी को भी किसी की गरिमा और निजता की अनदेखी करने की छूट देता है? किसी कर्मचारी की शिकायत के लिए सबूत जुटाना अलग बात है और सिर्फ व्यूज के लिए किसी को असहज करना अलग।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgFNV81qN5U.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgFNV81qN5U/",
+      "date": "2026-11-23",
+      "hero": true,
+      "views": 1598,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "shadi-jugad-dosa-20261123",
+      "headline": "शादी में जुगाड़ का ऐसा नजारा, लोहे की कन्नी से बना रहे डोसा; वीडियो देख साउथ वाले भी हो जाएंगे हैरान !!",
+      "category": "कानपुर",
+      "body": "शादी में जुगाड़ का ऐसा नजारा, लोहे की कन्नी से बना रहे डोसा; वीडियो देख साउथ वाले भी हो जाएंगे हैरान !!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgE09HkqmaE.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgE09HkqmaE/",
+      "date": "2026-11-23",
+      "hero": false,
+      "views": 5823,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "cantt-roomi-bhaiya-quality-20261123",
       "headline": "भैया जी की सबसे बड़ी क्वालिटी?",
       "category": "राजनीति",
@@ -8,8 +34,8 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgEfvdMq2Kj.jpg",
       "sourceUrl": "https://www.instagram.com/reel/DgEfvdMq2Kj/",
       "date": "2026-11-23",
-      "hero": true,
-      "views": 148,
+      "hero": false,
+      "views": 53800,
       "likes": 0,
       "video": true
     },
@@ -22,7 +48,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgEcT6gKaXj/",
       "date": "2026-11-23",
       "hero": false,
-      "views": 2224,
+      "views": 54300,
       "likes": 0,
       "video": true
     },
@@ -75,7 +101,7 @@
       "date": "2026-11-22",
       "hero": false,
       "views": 0,
-      "likes": 157,
+      "likes": 256,
       "video": false
     },
     {
@@ -87,7 +113,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgCe0RrKX90/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 102000,
+      "views": 116000,
       "likes": 0,
       "video": true
     },
@@ -101,7 +127,7 @@
       "date": "2026-11-22",
       "hero": false,
       "views": 0,
-      "likes": 81,
+      "likes": 88,
       "video": false
     },
     {
@@ -113,7 +139,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgCNkWBKFzA/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 3396,
+      "views": 3949,
       "likes": 0,
       "video": true
     },
@@ -126,7 +152,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgB85leq3uC/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 5517,
+      "views": 6033,
       "likes": 0,
       "video": true
     },
@@ -139,7 +165,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgA32siq-GG/",
       "date": "2026-11-22",
       "hero": false,
-      "views": 153000,
+      "views": 228000,
       "likes": 0,
       "video": true
     },
@@ -153,7 +179,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 148,
+      "likes": 176,
       "video": false
     },
     {
@@ -166,7 +192,7 @@
       "date": "2026-11-21",
       "hero": false,
       "views": 0,
-      "likes": 343,
+      "likes": 476,
       "video": false
     },
     {
