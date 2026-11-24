@@ -1,6 +1,45 @@
 {
   "stories": [
     {
+      "id": "maharajpur-karankheda-tendua-hamla-20261124",
+      "headline": "गांव में घुसा तेंदुआ, आफत बनकर टूटा? हमले में कई लोग अस्पताल पहुंचे",
+      "category": "हादसा",
+      "body": "कानपुर के महाराजपुर स्थित करणखेड़ा गांव में तेंदुए के हमले से हड़कंप मच गया। खबर के मुताबिक, तेंदुए ने 7 से 8 ग्रामीणों पर हमला कर दिया, जिनमें दो भाइयों समेत कई लोग गंभीर रूप से घायल बताए जा रहे हैं। सभी घायलों को इलाज के लिए अस्पताल में भर्ती कराया गया है।\n\nहमले के बाद गांव में दहशत का माहौल है। अब ग्रामीणों को तेंदुए से ज्यादा डर इस बात का है कि अगला हमला कब और किस पर होगा!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgIPgJ8qp9x.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgIPgJ8qp9x/",
+      "date": "2026-11-24",
+      "hero": true,
+      "views": 0,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "bithoor-bhaiya-ji-vidhayak-kahani-20261124",
+      "headline": "बिठूर के भैया जी को मिले 51,822 वोट, तीसरे नंबर पर",
+      "category": "राजनीति",
+      "body": "पार्टी बदली, किस्मत चमकी और बन गए विधायक! कहानी बिठूर के भैया जी की !!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgH80wOqHwW.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgH80wOqHwW/",
+      "date": "2026-11-24",
+      "hero": false,
+      "views": 0,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "ramdev-bageshwar-dhirendra-shastri-20261124",
+      "headline": "बाबा रामदेव बनाम बाबा बागेश्वर! धीरेंद्र शास्त्री को बताया पाखंडी",
+      "category": "कानपुर",
+      "body": "बाबा रामदेव और बागेश्वर धाम के पीठाधीश्वर पंडित धीरेंद्र कृष्ण शास्त्री के बीच जुबानी जंग तेज हो गई है। झारखंड के जमशेदपुर में एक कार्यक्रम के दौरान रामदेव ने बिना नाम लिए पहले निशाना साधा और फिर धीरेंद्र शास्त्री का जिक्र करते हुए उन्हें पाखंडी और ढोंगी तक कह दिया। विवाद की वजह भगवान राम और श्रीकृष्ण की तुलना पर धीरेंद्र शास्त्री की टिप्पणी बताई जा रही है। रामदेव ने भूत-प्रेत के नाम पर लोगों के शोषण का आरोप भी लगाया। अब सवाल है—धार्मिक मंचों पर यह बहस कहां तक पहुंचेगी?",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgHdw6sKreS.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgHdw6sKreS/",
+      "date": "2026-11-24",
+      "hero": false,
+      "views": 0,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "kanpur-aero-city-1251-acre-20261124",
       "headline": "दिल्ली जैसी एयरो सिटी बनेगी कानपुर में! 1,251 एकड़ में होटल, मॉल और कन्वेंशन सेंटर",
       "category": "कानपुर",
@@ -8,9 +47,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgH1Vm6TgsN.jpg",
       "sourceUrl": "https://www.instagram.com/p/DgH1Vm6TgsN/",
       "date": "2026-11-24",
-      "hero": true,
+      "hero": false,
       "views": 0,
-      "likes": 0,
+      "likes": 83,
       "video": false
     },
     {
@@ -49,7 +88,7 @@
       "date": "2026-11-24",
       "hero": false,
       "views": 0,
-      "likes": 7,
+      "likes": 13,
       "video": false
     },
     {
@@ -62,7 +101,7 @@
       "date": "2026-11-24",
       "hero": false,
       "views": 0,
-      "likes": 21,
+      "likes": 59,
       "video": false
     },
     {
@@ -75,7 +114,7 @@
       "date": "2026-11-24",
       "hero": false,
       "views": 0,
-      "likes": 13,
+      "likes": 16,
       "video": false
     },
     {
@@ -480,45 +519,6 @@
       "views": 0,
       "likes": 0,
       "video": false
-    },
-    {
-      "id": "day-wedding-kanpur",
-      "headline": "25 दिन में 35 हजार शादियां! कानपुर में बैंड-बाजा ही नहीं, बाजार भी बजाएगा करोड़ों की धुन",
-      "category": "कानपुर",
-      "body": "कानपुर में 21 नवंबर से शादी-विवाह का पहला सीजन शुरू होने जा रहा है। 15 दिसंबर तक चलने वाले इस सीजन में करीब 35 हजार मांगलिक आयोजनों का अनुमान है और बाजार में लगभग 6 हजार करोड़ रुपये का कारोबार होने की उम्मीद है।\n\nआभूषण, कपड़े, होटल, बैंक्वेट हॉल, कैटरिंग, डेकोरेशन और फोटोग्राफी से लेकर इवेंट मैनेजमेंट तक हर कारोबार की चांदी होने वाली है। इतना ही नहीं, करीब 8 हजार लोगों को अस्थायी और मौसमी रोजगार भी मिल सकता है।\n\nकानपुर में अब शादी सिर्फ दो दिलों का मिलन नहीं, बाजार के लिए भी कमाई का बड़ा सीजन बन गई है!",
-      "image": "assets/poster-day-wedding.png",
-      "sourceUrl": "https://www.instagram.com/p/Df9LopzTLNJ/",
-      "date": "2026-11-20",
-      "hero": false,
-      "views": 0,
-      "likes": 248,
-      "video": false
-    },
-    {
-      "id": "brajesh-pathak-akhilesh-mandir",
-      "headline": "'अखिलेश नाक रगड़ें, तब मुरली वाले का मंदिर बनेगा!' ब्रजेश पाठक का तंज",
-      "category": "राजनीति",
-      "body": "कानपुर में जागरण विमर्श के दौरान उप मुख्यमंत्री ब्रजेश पाठक ने सपा प्रमुख अखिलेश यादव पर तीखा तंज कसा। उन्होंने कहा कि अखिलेश यादव नाक रगड़कर यह कहें कि वे मुरली वाले का मंदिर बनाने में मदद करेंगे। पाठक ने अपने संबोधन में प्रदेश की कानून-व्यवस्था, विकास और सनातन से जुड़े मुद्दों पर भी सरकार का पक्ष रखा। उन्होंने 2017 से पहले और आज के उत्तर प्रदेश की तुलना करते हुए विकास, पर्यटन, शिक्षा और स्वास्थ्य के क्षेत्र में सुधार का दावा किया।\n\nमंदिर का मुद्दा हो या सियासत का मंच, नेताओं के बयानों में तंज की कोई कमी नहीं!",
-      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df9VcgyTPj_.jpg",
-      "sourceUrl": "https://www.instagram.com/p/Df9VcgyTPj_/",
-      "date": "2026-11-20",
-      "hero": false,
-      "views": 0,
-      "video": false,
-      "likes": 12
-    },
-    {
-      "id": "cbi-raid-cantonment-board",
-      "headline": "रिटायर कर्मचारी की पेंशन अटकी या रिश्वत की मांग हुई? CBI ने की छापेमारी",
-      "category": "क्राइम",
-      "body": "कानपुर की छावनी परिषद में CBI की टीम ने छापा मारकर घूस मांगने के आरोप में एक महिला अधिकारी और एक कर्मचारी को पकड़ा है। आरोप है कि 10 साल पहले सेवानिवृत्त हुए सफाई नायक रूप लाल से पेंशन और फंड के भुगतान के बदले 5 हजार रुपये मांगे गए थे। इसी शिकायत पर CBI ने कार्रवाई की और कार्यालय में कर्मचारियों से घंटों पूछताछ की।\n\nफिलहाल मामले में गिरफ्तारी की आधिकारिक पुष्टि नहीं हुई है।\n\nसवाल ये है कि जिस कर्मचारी ने 10 साल नौकरी करके पेंशन का हक कमाया, उसे अपना ही पैसा पाने के लिए रिश्वत क्यों देनी पड़े?",
-      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df9eDAbTIvF.jpg",
-      "sourceUrl": "https://www.instagram.com/p/Df9eDAbTIvF/",
-      "date": "2026-11-20",
-      "hero": false,
-      "views": 0,
-      "video": false,
-      "likes": 30
     }
   ]
 }
