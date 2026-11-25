@@ -1,6 +1,45 @@
 {
   "stories": [
     {
+      "id": "sisamau-bhaiya-ji-irfan-solanki-20261125",
+      "headline": "सीसामऊ के भैया जी जेल गए, फिर भी विधायकी घर से बाहर नहीं गई",
+      "category": "राजनीति",
+      "body": "चार बार जीते, जेल गए और फिर भी विधायकी घर से बाहर नहीं जाने दी ! कहानी सीसामऊ के भैया जी की !!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgKiSsCodGG.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgKiSsCodGG/",
+      "date": "2026-11-25",
+      "hero": true,
+      "views": 4694,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "shampoo-pouch-botal-pol-20261125",
+      "headline": "महिला ने खोली शैम्पू कंपनी की पोल! बोलीं- ₹400 की एक बोतल, पाउच में मिल रहा 4 बोतल के बराबर शैम्पू !!",
+      "category": "व्यापार",
+      "body": "महिला ने खोली शैम्पू कंपनी की पोल! बोलीं- ₹400 की एक बोतल, पाउच में मिल रहा 4 बोतल के बराबर शैम्पू !!",
+      "image": null,
+      "sourceUrl": "https://www.instagram.com/reel/DgKR9UOqE31/",
+      "date": "2026-11-25",
+      "hero": false,
+      "views": 32100,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "vaibhav-204-run-world-record-20261125",
+      "headline": "15 साल के वैभव का विश्व रिकॉर्ड! UAE के खिलाफ 53 गेंदों में ठोक डाले 204 रन, जड़े 28 छक्के!",
+      "category": "खेल",
+      "body": "15 साल के वैभव का विश्व रिकॉर्ड! UAE के खिलाफ 53 गेंदों में ठोक डाले 204 रन, जड़े 28 छक्के!",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgJ-_SgKe2Q.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgJ-_SgKe2Q/",
+      "date": "2026-11-25",
+      "hero": false,
+      "views": 2618,
+      "likes": 0,
+      "video": true
+    },
+    {
       "id": "bijli-khamba-jhuka-20261125",
       "headline": "क्या हादसे के बाद जागेगा बिजली विभाग? महीनों से मौत को दावत दे रहा झुका खंभा",
       "category": "कानपुर",
@@ -10,7 +49,7 @@
       "date": "2026-11-25",
       "hero": false,
       "views": 0,
-      "likes": 8,
+      "likes": 24,
       "video": false
     },
     {
@@ -21,8 +60,8 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgKT5HKKjM_.jpg",
       "sourceUrl": "https://www.instagram.com/reel/DgKT5HKKjM_/",
       "date": "2026-11-25",
-      "hero": true,
-      "views": 4731,
+      "hero": false,
+      "views": 11200,
       "likes": 0,
       "video": true
     },
@@ -35,7 +74,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgJ8nh2K4NT/",
       "date": "2026-11-25",
       "hero": false,
-      "views": 10600,
+      "views": 41000,
       "likes": 0,
       "video": true
     },
@@ -48,7 +87,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgJ6jHCKbhk/",
       "date": "2026-11-25",
       "hero": false,
-      "views": 1288,
+      "views": 1912,
       "likes": 0,
       "video": true
     },
@@ -61,7 +100,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgIPgJ8qp9x/",
       "date": "2026-11-24",
       "hero": false,
-      "views": 3489,
+      "views": 3810,
       "likes": 0,
       "video": true
     },
@@ -74,7 +113,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgH80wOqHwW/",
       "date": "2026-11-24",
       "hero": false,
-      "views": 84300,
+      "views": 96500,
       "likes": 0,
       "video": true
     },
@@ -101,7 +140,7 @@
       "date": "2026-11-24",
       "hero": false,
       "views": 0,
-      "likes": 370,
+      "likes": 421,
       "video": false
     },
     {
@@ -113,7 +152,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgHtZUtKjD3/",
       "date": "2026-11-24",
       "hero": false,
-      "views": 5026,
+      "views": 9281,
       "likes": 0,
       "video": true
     },
@@ -126,7 +165,7 @@
       "sourceUrl": "https://www.instagram.com/reel/DgHsWf6qwiZ/",
       "date": "2026-11-24",
       "hero": false,
-      "views": 4590,
+      "views": 4802,
       "likes": 0,
       "video": true
     },
@@ -480,45 +519,6 @@
       "views": 11500,
       "likes": 0,
       "video": true
-    },
-    {
-      "id": "shastri-nagar-dabang-marpeet-20261121",
-      "headline": "कानपुर में दबंगों का तांडव! युवक को सड़क पर दौड़ा-दौड़ाकर पीटा, वीडियो वायरल",
-      "category": "क्राइम",
-      "body": "कानपुर के शास्त्री नगर में मामूली बात को लेकर हुआ विवाद मारपीट तक पहुंच गया। आरोप है कि कुछ दबंगों ने एक युवक को दौड़ा-दौड़ाकर पीटा। घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।\nवीडियो सामने आने के बाद इलाके में कानून-व्यवस्था को लेकर सवाल उठ रहे हैं। अब देखना होगा कि पुलिस इस मामले में क्या कार्रवाई करती है।",
-      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df_Qh8UKg41.jpg",
-      "sourceUrl": "https://www.instagram.com/reel/Df_Qh8UKg41/",
-      "date": "2026-11-21",
-      "hero": false,
-      "views": 5437,
-      "likes": 0,
-      "video": true
-    },
-    {
-      "id": "sadak-laparwahi-video-20261121",
-      "headline": "'हमारे शहर के लोग कब सुधरेंगे?' कानपुर की सड़क पर दिखी लापरवाही का वीडियो वायरल !!",
-      "category": "कानपुर",
-      "body": "'हमारे शहर के लोग कब सुधरेंगे?' कानपुर की सड़क पर दिखी लापरवाही का वीडियो वायरल !!",
-      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df-dI4uThik.jpg",
-      "sourceUrl": "https://www.instagram.com/reel/Df-dI4uThik/",
-      "date": "2026-11-21",
-      "hero": false,
-      "views": 5123,
-      "video": true,
-      "likes": 0
-    },
-    {
-      "id": "hallet-ilaj-bhatak-20261120",
-      "headline": "जेब में पैसे नहीं, हाथ में दर्द... बेहतर इलाज के लिए दर-दर भटक रहा कानपुर का युवक",
-      "category": "कानपुर",
-      "body": "कानपुर के हैलट अस्पताल की इलाज व्यवस्था एक बार फिर सवालों के घेरे में है। सड़क हादसे में हाथ टूटने के बाद एक युवक ने आरोप लगाया है कि अस्पताल में उसका समुचित एक्स-रे और जरूरी जांच नहीं कराई गई। आर्थिक तंगी के चलते वह बेहतर इलाज के लिए भी भटक रहा है।\nयुवक की शिकायत ने सरकारी अस्पतालों में इलाज की उपलब्धता और मरीजों की सुनवाई पर सवाल खड़े किए हैं। फिलहाल अस्पताल प्रशासन का पक्ष सामने आना बाकी है।",
-      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-Df9mfLvKHCE.jpg",
-      "sourceUrl": "https://www.instagram.com/reel/Df9mfLvKHCE/",
-      "date": "2026-11-20",
-      "hero": false,
-      "views": 8579,
-      "video": true,
-      "likes": 0
     }
   ]
 }
