@@ -1,6 +1,58 @@
 {
   "stories": [
     {
+      "id": "kisan-pradarshan-paidal-march-20261127",
+      "headline": "पुराने वादे पूरे नहीं होने पर किसानों का प्रदर्शन, कानपुर में पैदल मार्च",
+      "category": "कानपुर",
+      "body": "कानपुर में किसानों ने एक बार फिर अपनी मांगों को लेकर आवाज बुलंद की। फूलबाग से आयुक्त कार्यालय तक पैदल मार्च निकालकर किसानों ने प्रदर्शन किया और पुराने वादे पूरे करने की मांग की।\n\nप्रदर्शन में शामिल किसानों का कहना है कि लंबे समय से उनकी समस्याओं पर ध्यान नहीं दिया जा रहा है। किसानों ने प्रशासन से मांगों पर जल्द कार्रवाई करने की अपील की।\n\nप्रदर्शन के दौरान बड़ी संख्या में किसान मौजूद रहे और उन्होंने एकजुट होकर अपनी बात रखी। किसानों का कहना है कि जब तक मांगें पूरी नहीं होतीं, आंदोलन जारी रहेगा।\n\nवादा, वादा ही रह गया... तो सवाल उठना लाजिमी है। किसानों की मांगों पर प्रशासन अब क्या कदम उठाता है, इस पर सबकी नजर रहेगी।\n\n📍 कानपुर, उत्तर प्रदेश",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgPl23Ep9SY.jpg",
+      "sourceUrl": "https://www.instagram.com/p/DgPl23Ep9SY/",
+      "date": "2026-11-27",
+      "hero": true,
+      "views": 0,
+      "likes": 0,
+      "video": false
+    },
+    {
+      "id": "chamangaj-avaidh-apartment-karwai-20261127",
+      "headline": "चमनगंज के अवैध अपार्टमेंट पर कार्रवाई, बिल्डर नूरालम महफूज का निर्माण ध्वस्त होना शुरू",
+      "category": "कानपुर",
+      "body": "राधिका अपार्टमेंट में आग की घटना के बाद कानपुर विकास प्राधिकरण (KDA) की कार्रवाई अब तेज होती नजर आ रही है। चमनगंज क्षेत्र में बिल्डर नूरालम महफूज द्वारा बिना स्वीकृति बनाए गए अपार्टमेंट पर ध्वस्तीकरण की प्रक्रिया शुरू कर दी गई है।\n\nबताया जा रहा है कि अपार्टमेंट का निर्माण नियमों की अनदेखी कर किया गया था। KDA की टीम भारी पुलिस बल के साथ मौके पर पहुंची और निर्माण को गिराने की कार्रवाई शुरू की।\n\nअब सवाल ये है कि ऐसे अवैध निर्माण शहर में बनते कैसे रहे? क्या जिम्मेदार विभाग समय रहते कार्रवाई करता तो हादसे और विवाद दोनों टल सकते थे?",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgPk0WlnJ1s.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgPk0WlnJ1s/",
+      "date": "2026-11-27",
+      "hero": false,
+      "views": 19,
+      "likes": 0,
+      "video": true
+    },
+    {
+      "id": "bihar-shaadi-viral-20261127",
+      "headline": "इतिहास में दर्ज की जाएगी बिहार की ये शादी...",
+      "category": "कानपुर",
+      "body": "इतिहास में दर्ज की जाएगी बिहार की ये शादी...",
+      "image": null,
+      "sourceUrl": "https://www.instagram.com/reel/DgPhSW4iU79/",
+      "date": "2026-11-27",
+      "hero": false,
+      "views": 1330,
+      "likes": 22,
+      "video": true
+    },
+    {
+      "id": "swaroop-nagar-ev-car-aag-20261127",
+      "headline": "स्वरूप नगर में खड़ी EV कार में आग, KDA चौकी प्रभारी ने संभाली स्थिति",
+      "category": "हादसा",
+      "body": "कानपुर के स्वरूप नगर थाना क्षेत्र में भोलेश्वर मंदिर के पास खड़ी एक इलेक्ट्रिक कार में पहले धुआं उठा और फिर आग लग गई। घटना के बाद KDA चौकी प्रभारी ने स्थानीय लोगों और फायर ब्रिगेड टीम के साथ मोर्चा संभाला।\n\nकार स्वामी का नाम राम शरण बताया जा रहा है। आग लगने की वजह फिलहाल स्पष्ट नहीं है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgO9XrOKlY6.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgO9XrOKlY6/",
+      "date": "2026-11-27",
+      "hero": false,
+      "views": 7968,
+      "likes": 91,
+      "video": true
+    },
+    {
       "id": "azam-khan-akhilesh-jail-20261126",
       "headline": "बेटे से कहा था-काश, 6 महीने के लिए अखिलेश जी भी जेल आ जाएं! : आजम खान",
       "category": "राजनीति",
@@ -8,9 +60,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgNC6oVqt6m.jpg",
       "sourceUrl": "https://www.instagram.com/reel/DgNC6oVqt6m/",
       "date": "2026-11-26",
-      "hero": true,
-      "views": 9052,
-      "likes": 197,
+      "hero": false,
+      "views": 9659,
+      "likes": 211,
       "video": true
     },
     {
@@ -22,8 +74,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3YhDyvC3/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 2004,
-      "likes": 47,
+      "views": 2351,
+      "likes": 60,
       "video": false
     },
     {
@@ -35,8 +87,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3O6ISkEA/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 2582,
-      "likes": 37,
+      "views": 2949,
+      "likes": 39,
       "video": false
     },
     {
@@ -48,8 +100,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3FMgyU16/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 1777,
-      "likes": 19,
+      "views": 2157,
+      "likes": 26,
       "video": false
     },
     {
@@ -61,8 +113,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM28EAyYuT/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 7119,
-      "likes": 53,
+      "views": 7732,
+      "likes": 57,
       "video": false
     },
     {
@@ -74,8 +126,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM2M3ESg53/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 16478,
-      "likes": 149,
+      "views": 8470,
+      "likes": 279,
       "video": false
     },
     {
@@ -87,8 +139,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgMRu8FqPCU/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 12700,
-      "likes": 139,
+      "views": 13300,
+      "likes": 146,
       "video": true
     },
     {
@@ -100,8 +152,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgMM7Tsq2Rl/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 8577,
-      "likes": 139,
+      "views": 8769,
+      "likes": 142,
       "video": true
     },
     {
@@ -113,8 +165,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgLQWNszWQ6/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 14500,
-      "likes": 179,
+      "views": 15100,
+      "likes": 187,
       "video": true
     },
     {
@@ -126,8 +178,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgLJFnBT4iQ/",
       "date": "2026-11-25",
       "hero": false,
-      "views": 6016,
-      "likes": 147,
+      "views": 6143,
+      "likes": 151,
       "video": true
     },
     {
