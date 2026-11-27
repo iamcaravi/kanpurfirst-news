@@ -1,6 +1,45 @@
 {
   "stories": [
     {
+      "id": "rawatpur-marpeet-20261127",
+      "headline": "रावतपुर में दो पक्षों के बीच जमकर मारपीट, लाठी-डंडों से हमला",
+      "category": "क्राइम",
+      "body": "कानपुर के रावतपुर थाना क्षेत्र में मामूली विवाद ने देखते ही देखते हिंसक रूप ले लिया। दो पक्षों के बीच जमकर मारपीट हुई और लाठी-डंडे चलने का मामला सामने आया है। घटना का वीडियो या पूरी जानकारी सामने आने के बाद ही विवाद की वजह स्पष्ट हो सकेगी।\n\nछोटी-छोटी बातों पर विवाद और फिर लाठी-डंडों तक पहुंच जाना, आखिर कब लोग कानून का रास्ता अपनाना सीखेंगे?",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgQAY2AKRxU.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgQAY2AKRxU/",
+      "date": "2026-11-27",
+      "hero": true,
+      "views": 4110,
+      "likes": 63,
+      "video": true
+    },
+    {
+      "id": "naubasta-ramadevi-atikraman-20261127",
+      "headline": "नौबस्ता और रामादेवी चौराहे पर प्रशासन का अभियान, अवैध वाहन स्टैंड हटाए",
+      "category": "कानपुर",
+      "body": "कानपुर के नौबस्ता और रामादेवी चौराहे पर लगने वाले जाम से राहत दिलाने के लिए जिला प्रशासन ने अतिक्रमण के खिलाफ अभियान तेज कर दिया है। गुरुवार को जिलाधिकारी के निर्देश पर गठित संयुक्त टीम ने दोनों चौराहों पर कार्रवाई करते हुए अवैध वाहन स्टैंड हटवाए।\n\nअभियान में परिवहन विभाग, यातात पुलिस और नगर निगम की प्रवर्तन टीम शामिल रही। कार्रवाई के दौरान सड़क पर अवैध रूप से सवारियां भर रहे टेंपो, ई-रिक्शा और डग्गामार बसों को हटाया गया। वहीं, सड़क किनारे किए गए अस्थायी अतिक्रमण को भी हटाकर रास्ता साफ कराया गया।\n\nनौबस्ता और रामादेवी शहर के व्यस्ततम चौराहों में गिने जाते हैं, जहां अवैध स्टैंड और सड़क पर खड़े वाहनों के चलते अक्सर जाम की स्थिति बनती है। इससे राहगीरों, आम नागरिकों और स्कूली बच्चों को भी परेशानी उठानी पड़ती थी।\n\nप्रशासन ने वाहन चालकों और दुकानदारों को चेतावनी दी है कि चौराहों और सड़कों पर दोबारा अवैध स्टैंड या अतिक्रमण बर्दाश्त नहीं किया जाएगा। नियमों का उल्लंघन मिलने पर वाहन सीज करने समेत वैधानिक कार्रवाई की जाएगी।\n\nअब देखना ये है कि अभियान के बाद चौराहों को जाम से कितनी स्थायी राहत मिलती है, क्योंकि कानपुर में अक्सर कार्रवाई के बाद कुछ दिनों में ही वही पुराना नजारा लौट आता है।",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgPy7I7p7YZ.jpg",
+      "sourceUrl": "https://www.instagram.com/p/DgPy7I7p7YZ/",
+      "date": "2026-11-27",
+      "hero": false,
+      "views": 0,
+      "likes": 119,
+      "video": false
+    },
+    {
+      "id": "maharajpur-bhaiya-ji-record-20261127",
+      "headline": "8 चुनाव, 8 जीत! महाराजपुर के भैया जी का ऐसा रिकॉर्ड कि विपक्ष भी परेशान",
+      "category": "राजनीति",
+      "body": "8 चुनाव, 8 जीत! महाराजपुर के भैया जी का ऐसा रिकॉर्ड कि विपक्ष भी परेशान",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgPuqfFKQvx.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgPuqfFKQvx/",
+      "date": "2026-11-27",
+      "hero": false,
+      "views": 2765,
+      "likes": 108,
+      "video": true
+    },
+    {
       "id": "kisan-pradarshan-paidal-march-20261127",
       "headline": "पुराने वादे पूरे नहीं होने पर किसानों का प्रदर्शन, कानपुर में पैदल मार्च",
       "category": "कानपुर",
@@ -8,9 +47,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgPl23Ep9SY.jpg",
       "sourceUrl": "https://www.instagram.com/p/DgPl23Ep9SY/",
       "date": "2026-11-27",
-      "hero": true,
+      "hero": false,
       "views": 0,
-      "likes": 0,
+      "likes": 7,
       "video": false
     },
     {
@@ -22,8 +61,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgPk0WlnJ1s/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 19,
-      "likes": 0,
+      "views": 27200,
+      "likes": 282,
       "video": true
     },
     {
@@ -35,8 +74,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgPhSW4iU79/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 1330,
-      "likes": 22,
+      "views": 8097,
+      "likes": 95,
       "video": true
     },
     {
@@ -48,8 +87,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgO9XrOKlY6/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 7968,
-      "likes": 91,
+      "views": 10000,
+      "likes": 115,
       "video": true
     },
     {
@@ -61,8 +100,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgNC6oVqt6m/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 9659,
-      "likes": 211,
+      "views": 9853,
+      "likes": 212,
       "video": true
     },
     {
@@ -75,7 +114,7 @@
       "date": "2026-11-26",
       "hero": false,
       "views": 2351,
-      "likes": 60,
+      "likes": 62,
       "video": false
     },
     {
