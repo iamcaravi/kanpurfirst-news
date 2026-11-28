@@ -1,6 +1,19 @@
 {
   "stories": [
     {
+      "id": "harsh-gujral-kanpur-20261128",
+      "headline": "\"जो बोलता है, वही होता है\" वाले हर्ष गुजराल कानपुर से कैसे निकले?",
+      "category": "कानपुर",
+      "body": "\"जो बोलता है, वही होता है\" वाले हर्ष गुजराल कानपुर से कैसे निकले? @realharshgujral",
+      "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgRWWI2KuxQ.jpg",
+      "sourceUrl": "https://www.instagram.com/reel/DgRWWI2KuxQ/",
+      "date": "2026-11-28",
+      "hero": true,
+      "views": 261,
+      "likes": 2,
+      "video": true
+    },
+    {
       "id": "rawatpur-marpeet-20261127",
       "headline": "रावतपुर में दो पक्षों के बीच जमकर मारपीट, लाठी-डंडों से हमला",
       "category": "क्राइम",
@@ -8,9 +21,9 @@
       "image": "https://raw.githubusercontent.com/iamcaravi/kanpurfirst-news/main/assets/ig-DgQAY2AKRxU.jpg",
       "sourceUrl": "https://www.instagram.com/reel/DgQAY2AKRxU/",
       "date": "2026-11-27",
-      "hero": true,
-      "views": 4110,
-      "likes": 63,
+      "hero": false,
+      "views": 9881,
+      "likes": 131,
       "video": true
     },
     {
@@ -22,8 +35,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgPy7I7p7YZ/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 0,
-      "likes": 119,
+      "views": 2575,
+      "likes": 345,
       "video": false
     },
     {
@@ -35,8 +48,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgPuqfFKQvx/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 2765,
-      "likes": 108,
+      "views": 6123,
+      "likes": 284,
       "video": true
     },
     {
@@ -48,8 +61,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgPl23Ep9SY/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 0,
-      "likes": 7,
+      "views": 1354,
+      "likes": 13,
       "video": false
     },
     {
@@ -61,8 +74,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgPk0WlnJ1s/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 27200,
-      "likes": 282,
+      "views": 69100,
+      "likes": 585,
       "video": true
     },
     {
@@ -74,8 +87,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgPhSW4iU79/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 8097,
-      "likes": 95,
+      "views": 9569,
+      "likes": 103,
       "video": true
     },
     {
@@ -87,8 +100,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgO9XrOKlY6/",
       "date": "2026-11-27",
       "hero": false,
-      "views": 10000,
-      "likes": 115,
+      "views": 11200,
+      "likes": 124,
       "video": true
     },
     {
@@ -100,8 +113,8 @@
       "sourceUrl": "https://www.instagram.com/reel/DgNC6oVqt6m/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 9853,
-      "likes": 212,
+      "views": 10000,
+      "likes": 215,
       "video": true
     },
     {
@@ -113,8 +126,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3YhDyvC3/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 2351,
-      "likes": 62,
+      "views": 2613,
+      "likes": 63,
       "video": false
     },
     {
@@ -126,8 +139,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3O6ISkEA/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 2949,
-      "likes": 39,
+      "views": 3206,
+      "likes": 40,
       "video": false
     },
     {
@@ -139,7 +152,7 @@
       "sourceUrl": "https://www.instagram.com/p/DgM3FMgyU16/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 2157,
+      "views": 2506,
       "likes": 26,
       "video": false
     },
@@ -152,8 +165,8 @@
       "sourceUrl": "https://www.instagram.com/p/DgM28EAyYuT/",
       "date": "2026-11-26",
       "hero": false,
-      "views": 7732,
-      "likes": 57,
+      "views": 8053,
+      "likes": 58,
       "video": false
     },
     {
